@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 20de38939a4571942a54f7bc3134c37a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cone001
+    100004: Cone002
+    100006: Cylinder001
+    100008: Cylinder002
+    100010: half-sphere
+    100012: long-cone
+    100014: Main-body
+    100016: Sphere004
+    100018: Torus001
+    100020: Torus002
+    100022: Torus003
+    100024: Torus004
+    100026: Torus005
+    100028: Torus006
+    400000: //RootNode
+    400002: Cone001
+    400004: Cone002
+    400006: Cylinder001
+    400008: Cylinder002
+    400010: half-sphere
+    400012: long-cone
+    400014: Main-body
+    400016: Sphere004
+    400018: Torus001
+    400020: Torus002
+    400022: Torus003
+    400024: Torus004
+    400026: Torus005
+    400028: Torus006
+    2100000: 'Material #29'
+    2100002: 'Material #16'
+    2100004: 'Material #18'
+    2100006: 'Material #23'
+    2300000: Cone001
+    2300002: Cone002
+    2300004: Cylinder001
+    2300006: Cylinder002
+    2300008: half-sphere
+    2300010: long-cone
+    2300012: Main-body
+    2300014: Sphere004
+    2300016: Torus001
+    2300018: Torus002
+    2300020: Torus003
+    2300022: Torus004
+    2300024: Torus005
+    2300026: Torus006
+    3300000: Cone001
+    3300002: Cone002
+    3300004: Cylinder001
+    3300006: Cylinder002
+    3300008: half-sphere
+    3300010: long-cone
+    3300012: Main-body
+    3300014: Sphere004
+    3300016: Torus001
+    3300018: Torus002
+    3300020: Torus003
+    3300022: Torus004
+    3300024: Torus005
+    3300026: Torus006
+    4300000: Main-body
+    4300002: half-sphere
+    4300004: long-cone
+    4300006: Torus001
+    4300008: Torus002
+    4300010: Torus003
+    4300012: Torus004
+    4300014: Torus005
+    4300016: Torus006
+    4300018: Cone001
+    4300020: Cone002
+    4300022: Cylinder001
+    4300024: Sphere004
+    4300026: Cylinder002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16'
+    second: {fileID: 2100000, guid: ecac7c83c95fa884da951a10ff119d72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #18'
+    second: {fileID: 2100000, guid: 3da363eb413c2f841a4f395874114f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #23'
+    second: {fileID: 2100000, guid: 293eb37a80952be4da66f80fd197a90c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 5462251f71cd1444ebd0195bcab18f0d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

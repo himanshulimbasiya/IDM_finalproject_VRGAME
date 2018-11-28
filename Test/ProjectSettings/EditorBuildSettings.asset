@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: be6f73c52d6f75c4b96478c3c8fda6d1
+  - enabled: 1
+    path: Assets/Scenes/GameScene Split Screen.unity
+    guid: b971eabf9cd949e479bcbd0f11fc28dc
+  m_configObjects: {}

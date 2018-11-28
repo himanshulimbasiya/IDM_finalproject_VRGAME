@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Camera
+  - SpawnPoint
+  - Hypersquare
+  - Left Controller
+  - Right Controller
+  - Audio Test
+  - Shard
+  - PMP
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Not Ground
+  - Not Wall
+  - Trigger
+  - Flatlander Render Only
+  - Monster Render Only
+  - P1 Only
+  - P2 Only
+  - P3 Only
+  - P4 Only
+  - environment
+  - Hypersquare
+  - Aura
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

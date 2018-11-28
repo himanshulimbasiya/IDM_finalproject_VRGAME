@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 8ef2e5faef115374f8bb9b7da2d51318
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: curve1
+    100002: curve10
+    100004: curve2
+    100006: curve3
+    100008: curve4
+    100010: curve5
+    100012: curve6
+    100014: curve7
+    100016: curve8
+    100018: curve9
+    100020: joint104
+    100022: //RootNode
+    100024: pasted__joint1
+    100026: pasted__joint10
+    100028: pasted__joint10 1
+    100030: pasted__joint100
+    100032: pasted__joint101
+    100034: pasted__joint102
+    100036: pasted__joint103
+    100038: pasted__joint11
+    100040: pasted__joint11 1
+    100042: pasted__joint12
+    100044: pasted__joint12 1
+    100046: pasted__joint13
+    100048: pasted__joint13 1
+    100050: pasted__joint14
+    100052: pasted__joint14 1
+    100054: pasted__joint15
+    100056: pasted__joint15 1
+    100058: pasted__joint16
+    100060: pasted__joint16 1
+    100062: pasted__joint17
+    100064: pasted__joint17 1
+    100066: pasted__joint18
+    100068: pasted__joint18 1
+    100070: pasted__joint19
+    100072: pasted__joint19 1
+    100074: pasted__joint2
+    100076: pasted__joint2 1
+    100078: pasted__joint20
+    100080: pasted__joint20 1
+    100082: pasted__joint21
+    100084: pasted__joint21 1
+    100086: pasted__joint22
+    100088: pasted__joint22 1
+    100090: pasted__joint23
+    100092: pasted__joint23 1
+    100094: pasted__joint24
+    100096: pasted__joint24 1
+    100098: pasted__joint25
+    100100: pasted__joint26
+    100102: pasted__joint27
+    100104: pasted__joint28
+    100106: pasted__joint29
+    100108: pasted__joint3
+    100110: pasted__joint3 1
+    100112: pasted__joint30
+    100114: pasted__joint31
+    100116: pasted__joint32
+    100118: pasted__joint33
+    100120: pasted__joint34
+    100122: pasted__joint35
+    100124: pasted__joint36
+    100126: pasted__joint37
+    100128: pasted__joint38
+    100130: pasted__joint39
+    100132: pasted__joint4
+    100134: pasted__joint4 1
+    100136: pasted__joint40
+    100138: pasted__joint41
+    100140: pasted__joint42
+    100142: pasted__joint43
+    100144: pasted__joint44
+    100146: pasted__joint45
+    100148: pasted__joint46
+    100150: pasted__joint47
+    100152: pasted__joint48
+    100154: pasted__joint48 1
+    100156: pasted__joint49
+    100158: pasted__joint49 1
+    100160: pasted__joint5
+    100162: pasted__joint5 1
+    100164: pasted__joint50
+    100166: pasted__joint50 1
+    100168: pasted__joint51
+    100170: pasted__joint51 1
+    100172: pasted__joint52
+    100174: pasted__joint52 1
+    100176: pasted__joint53
+    100178: pasted__joint53 1
+    100180: pasted__joint54
+    100182: pasted__joint54 1
+    100184: pasted__joint55
+    100186: pasted__joint55 1
+    100188: pasted__joint56
+    100190: pasted__joint57
+    100192: pasted__joint57 1
+    100194: pasted__joint58
+    100196: pasted__joint58 1
+    100198: pasted__joint59
+    100200: pasted__joint59 1
+    100202: pasted__joint6
+    100204: pasted__joint6 1
+    100206: pasted__joint60
+    100208: pasted__joint60 1
+    100210: pasted__joint61
+    100212: pasted__joint61 1
+    100214: pasted__joint62
+    100216: pasted__joint62 1
+    100218: pasted__joint63
+    100220: pasted__joint63 1
+    100222: pasted__joint64
+    100224: pasted__joint64 1
+    100226: pasted__joint65
+    100228: pasted__joint65 1
+    100230: pasted__joint66
+    100232: pasted__joint66 1
+    100234: pasted__joint67
+    100236: pasted__joint67 1
+    100238: pasted__joint68
+    100240: pasted__joint68 1
+    100242: pasted__joint69
+    100244: pasted__joint69 1
+    100246: pasted__joint7
+    100248: pasted__joint7 1
+    100250: pasted__joint70
+    100252: pasted__joint70 1
+    100254: pasted__joint71
+    100256: pasted__joint71 1
+    100258: pasted__joint72
+    100260: pasted__joint72 1
+    100262: pasted__joint73
+    100264: pasted__joint73 1
+    100266: pasted__joint74
+    100268: pasted__joint75
+    100270: pasted__joint75 1
+    100272: pasted__joint76
+    100274: pasted__joint76 1
+    100276: pasted__joint77
+    100278: pasted__joint77 1
+    100280: pasted__joint78
+    100282: pasted__joint78 1
+    100284: pasted__joint79
+    100286: pasted__joint79 1
+    100288: pasted__joint8
+    100290: pasted__joint8 1
+    100292: pasted__joint80
+    100294: pasted__joint80 1
+    100296: pasted__joint81
+    100298: pasted__joint81 1
+    100300: pasted__joint82
+    100302: pasted__joint82 1
+    100304: pasted__joint83
+    100306: pasted__joint83 1
+    100308: pasted__joint84
+    100310: pasted__joint84 1
+    100312: pasted__joint85
+    100314: pasted__joint85 1
+    100316: pasted__joint86
+    100318: pasted__joint86 1
+    100320: pasted__joint87
+    100322: pasted__joint87 1
+    100324: pasted__joint88
+    100326: pasted__joint89
+    100328: pasted__joint9
+    100330: pasted__joint9 1
+    100332: pasted__joint90
+    100334: pasted__joint91
+    100336: pasted__joint92
+    100338: pasted__joint93
+    100340: pasted__joint94
+    100342: pasted__joint95
+    100344: pasted__joint96
+    100346: pasted__joint97
+    100348: pasted__joint98
+    100350: pasted__joint99
+    100352: pCone1
+    100354: pCone3
+    100356: pCone4
+    100358: pCube1
+    100360: pCube2
+    100362: pCube3
+    100364: pCube4
+    100366: pSphere1
+    100368: pSphere2
+    100370: sphere
+    100372: sphere1
+    100374: transform1
+    100376: transform2
+    100378: transform3
+    100380: transform4
+    100382: transform5
+    100384: transform6
+    400000: curve1
+    400002: curve10
+    400004: curve2
+    400006: curve3
+    400008: curve4
+    400010: curve5
+    400012: curve6
+    400014: curve7
+    400016: curve8
+    400018: curve9
+    400020: joint104
+    400022: //RootNode
+    400024: pasted__joint1
+    400026: pasted__joint10
+    400028: pasted__joint10 1
+    400030: pasted__joint100
+    400032: pasted__joint101
+    400034: pasted__joint102
+    400036: pasted__joint103
+    400038: pasted__joint11
+    400040: pasted__joint11 1
+    400042: pasted__joint12
+    400044: pasted__joint12 1
+    400046: pasted__joint13
+    400048: pasted__joint13 1
+    400050: pasted__joint14
+    400052: pasted__joint14 1
+    400054: pasted__joint15
+    400056: pasted__joint15 1
+    400058: pasted__joint16
+    400060: pasted__joint16 1
+    400062: pasted__joint17
+    400064: pasted__joint17 1
+    400066: pasted__joint18
+    400068: pasted__joint18 1
+    400070: pasted__joint19
+    400072: pasted__joint19 1
+    400074: pasted__joint2
+    400076: pasted__joint2 1
+    400078: pasted__joint20
+    400080: pasted__joint20 1
+    400082: pasted__joint21
+    400084: pasted__joint21 1
+    400086: pasted__joint22
+    400088: pasted__joint22 1
+    400090: pasted__joint23
+    400092: pasted__joint23 1
+    400094: pasted__joint24
+    400096: pasted__joint24 1
+    400098: pasted__joint25
+    400100: pasted__joint26
+    400102: pasted__joint27
+    400104: pasted__joint28
+    400106: pasted__joint29
+    400108: pasted__joint3
+    400110: pasted__joint3 1
+    400112: pasted__joint30
+    400114: pasted__joint31
+    400116: pasted__joint32
+    400118: pasted__joint33
+    400120: pasted__joint34
+    400122: pasted__joint35
+    400124: pasted__joint36
+    400126: pasted__joint37
+    400128: pasted__joint38
+    400130: pasted__joint39
+    400132: pasted__joint4
+    400134: pasted__joint4 1
+    400136: pasted__joint40
+    400138: pasted__joint41
+    400140: pasted__joint42
+    400142: pasted__joint43
+    400144: pasted__joint44
+    400146: pasted__joint45
+    400148: pasted__joint46
+    400150: pasted__joint47
+    400152: pasted__joint48
+    400154: pasted__joint48 1
+    400156: pasted__joint49
+    400158: pasted__joint49 1
+    400160: pasted__joint5
+    400162: pasted__joint5 1
+    400164: pasted__joint50
+    400166: pasted__joint50 1
+    400168: pasted__joint51
+    400170: pasted__joint51 1
+    400172: pasted__joint52
+    400174: pasted__joint52 1
+    400176: pasted__joint53
+    400178: pasted__joint53 1
+    400180: pasted__joint54
+    400182: pasted__joint54 1
+    400184: pasted__joint55
+    400186: pasted__joint55 1
+    400188: pasted__joint56
+    400190: pasted__joint57
+    400192: pasted__joint57 1
+    400194: pasted__joint58
+    400196: pasted__joint58 1
+    400198: pasted__joint59
+    400200: pasted__joint59 1
+    400202: pasted__joint6
+    400204: pasted__joint6 1
+    400206: pasted__joint60
+    400208: pasted__joint60 1
+    400210: pasted__joint61
+    400212: pasted__joint61 1
+    400214: pasted__joint62
+    400216: pasted__joint62 1
+    400218: pasted__joint63
+    400220: pasted__joint63 1
+    400222: pasted__joint64
+    400224: pasted__joint64 1
+    400226: pasted__joint65
+    400228: pasted__joint65 1
+    400230: pasted__joint66
+    400232: pasted__joint66 1
+    400234: pasted__joint67
+    400236: pasted__joint67 1
+    400238: pasted__joint68
+    400240: pasted__joint68 1
+    400242: pasted__joint69
+    400244: pasted__joint69 1
+    400246: pasted__joint7
+    400248: pasted__joint7 1
+    400250: pasted__joint70
+    400252: pasted__joint70 1
+    400254: pasted__joint71
+    400256: pasted__joint71 1
+    400258: pasted__joint72
+    400260: pasted__joint72 1
+    400262: pasted__joint73
+    400264: pasted__joint73 1
+    400266: pasted__joint74
+    400268: pasted__joint75
+    400270: pasted__joint75 1
+    400272: pasted__joint76
+    400274: pasted__joint76 1
+    400276: pasted__joint77
+    400278: pasted__joint77 1
+    400280: pasted__joint78
+    400282: pasted__joint78 1
+    400284: pasted__joint79
+    400286: pasted__joint79 1
+    400288: pasted__joint8
+    400290: pasted__joint8 1
+    400292: pasted__joint80
+    400294: pasted__joint80 1
+    400296: pasted__joint81
+    400298: pasted__joint81 1
+    400300: pasted__joint82
+    400302: pasted__joint82 1
+    400304: pasted__joint83
+    400306: pasted__joint83 1
+    400308: pasted__joint84
+    400310: pasted__joint84 1
+    400312: pasted__joint85
+    400314: pasted__joint85 1
+    400316: pasted__joint86
+    400318: pasted__joint86 1
+    400320: pasted__joint87
+    400322: pasted__joint87 1
+    400324: pasted__joint88
+    400326: pasted__joint89
+    400328: pasted__joint9
+    400330: pasted__joint9 1
+    400332: pasted__joint90
+    400334: pasted__joint91
+    400336: pasted__joint92
+    400338: pasted__joint93
+    400340: pasted__joint94
+    400342: pasted__joint95
+    400344: pasted__joint96
+    400346: pasted__joint97
+    400348: pasted__joint98
+    400350: pasted__joint99
+    400352: pCone1
+    400354: pCone3
+    400356: pCone4
+    400358: pCube1
+    400360: pCube2
+    400362: pCube3
+    400364: pCube4
+    400366: pSphere1
+    400368: pSphere2
+    400370: sphere
+    400372: sphere1
+    400374: transform1
+    400376: transform2
+    400378: transform3
+    400380: transform4
+    400382: transform5
+    400384: transform6
+    2100000: Material
+    2100002: teeth
+    2100004: lambert2
+    2100006: tongue
+    2100008: skin
+    2300000: pCone1
+    2300002: pCone3
+    2300004: pCone4
+    2300006: pCube4
+    2300008: sphere
+    3300000: pCone1
+    3300002: pCone3
+    3300004: pCone4
+    3300006: pCube4
+    3300008: sphere
+    4300000: sphere
+    4300002: pCone1
+    4300004: pCone3
+    4300006: pCone4
+    4300008: pCube4
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
